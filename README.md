@@ -1,6 +1,6 @@
 # Katerina
-# Front End Developer
-I'm Katerina and live in Norway.
+
+Hi there, my name is Katerina and I am Front End Developer.
 
 <!--
 **KaterinaB10/KaterinaB10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
