@@ -9,4 +9,4 @@ Hi there, my name is Katerina and I am currently studying front end development 
 - 🔭 C#, SQL 
 
 ## My project
-You can see my latest projects below 👇.
+You can see my latest projects below 👇
