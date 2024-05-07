@@ -1,9 +1,7 @@
 # Katerina
 
-Hi there, my name is Katerina and I am Front End Developer.
+Hi there, my name is Katerina and I am currently studying front end development with JobLoop (Kodehode). I'm fond of creation design and implementation it using code to web-pages, that would be easy and enjoyable to use.
 
-<!--
-**KaterinaB10/KaterinaB10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
