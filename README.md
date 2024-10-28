@@ -6,7 +6,9 @@ Hi there, my name is Kateryna and I am currently workign as UI designer and fron
 
 - 💻 HTML, CSS, JavaScript
 - ⚛ React JS
-- 🔭 C#, SQL 
+- 🔭 C#, SQL
+- 🤝 Working with a team on a remote repository
+- 💡 Trunk-Based Development Git workflow
 
 ## My project
 You can see my latest projects below 👇
